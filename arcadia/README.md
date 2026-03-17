@@ -1,2 +1,1 @@
-Home Assistant Add-on: Arcadia
-这是一个给 Home Assistant OS / Supervisor 使用的 Arcadia 自定义 Add-on 包装仓库目录。
+Arcadia 平台主要面向于脚本语言编程与运维，支持定时任务调度，有着完善的文件系统和底层CLI命令设计，适用于中小型团队与个人的开发与运维环境。

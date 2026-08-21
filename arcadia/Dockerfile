@@ -1,4 +1,4 @@
-FROM supermanito/arcadia:beta
+FROM supermanito/arcadia
 
 ARG BUILD_VERSION
 ARG BUILD_ARCH
